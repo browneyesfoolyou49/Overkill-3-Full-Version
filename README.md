@@ -237,4 +237,4 @@ This repository serves as the official landing page for Overkill 3. The software
 **Get the most recent version of Overkill 3 today!**
 
 ---
-**Last updated:** 2026-10-13 16:37:27 UTC
+**Last updated:** 2026-10-13 21:40:12 UTC
